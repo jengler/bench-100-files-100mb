@@ -1,1 +1,1 @@
-# bench-100-files-100mb
+# bench-100-files-22mb
